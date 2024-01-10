@@ -1,0 +1,135 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.nav {
+  background-image: url("src/assets/header/image 12.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn {
+  border-radius: 16px;
+  background: linear-gradient(92deg, #FB8B62 5.83%, #F47648 89.73%), #F47648;
+  backdrop-filter: blur(34px);
+}
+
+.sec2 {
+  background-image: url("src/assets/main/image 87.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sec1 {
+  background-image: url("src/assets/main/Rectangle 7 (1).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.v {
+  background-image: url("src/assets/main/надпись камчатка.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bl {
+  background-image: url("src/assets/main/Rectangle 25 (1).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.fj {
+  background-image: url("src/assets/main/_IGP4685 1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.jf {
+  background-image: url("src/assets/main/Rectangle 29.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.t1 {
+  background-image: url("src/assets/main/card3/image 53.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.j1 {
+  background-image: url("src/assets/main/Group 164.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.j2 {
+  background-image: url("src/assets/main/Вилючинский.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.t2 {
+  background-image: url("src/assets/main/image 37 (2).png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card5 {
+  box-shadow: 0px 6px 14px 0px rgba(0, 0, 0, 0.10);
+}
+
+.jl {
+  background-image: url("src/assets/main/Group 168.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sec8 {
+  background-image: url("src/assets/main/Group 208.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tjk {
+  background-image: url("src/assets/main/image 100 (1).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wi {
+  background-image: url("src/assets/main/Group 164.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ob {
+  background-image: url("src/assets/main/Group 132.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.tj1 {
+  background-image: url("src/assets/header/card1/image 108.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.violet {
+  background-image: url("src/assets/Group 177 (1).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.end {
+  background-image: url("src/assets/Group 179.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
